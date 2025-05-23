@@ -12,9 +12,9 @@
 <p align="center">
   <a href="https://t.me/Jayavardhan56"><img width="32px" alt="Telegram" title="Telegram" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/telegram-app.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/Jayavardhan56"><img width="32px" alt="LinkedIn" title="LinkedIn" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/linkedin.png"></a>
+  <a href="https://www.linkedin.com/in/konathala-jayavardhan-130907261"><img width="32px" alt="LinkedIn" title="LinkedIn" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/linkedin.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:jayavardhan56@example.com"><img width="32px" alt="Gmail" title="Gmail" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/gmail-new.png"/></a>
+  <a href="jayavardhankonathala@gmail.com"><img width="32px" alt="Gmail" title="Gmail" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/gmail-new.png"/></a>
 </p>
 
 <!-- Profile Visits Counter -->
@@ -25,20 +25,20 @@
 </a>
 
 <!-- Introduction and Skills -->
-⦿ &#8287;Hi, I’m **K Jayavardhan**<br>
+⦿ &#8287;Hi, I’m K Jayavardhan<br>
 ⦿ &#8287;Currently pursuing my **B.Tech in Computer Science** (Final Year)<br>
 ⦿ &#8287;I have expertise in:
 
 <div align="center">
   
-  **`Full Stack Development`** | **`Cloud Computing (AWS)`** | **`DevOps Tools`** | **`Frontend Design`** | **`Backend APIs`**
+ **`Cloud Computing (AWS)`** | **`DevOps Tools`** | **`Frontend Design`** 
 
 </div>
 
 ⦿ &#8287; I am enthusiastic about exploring **cloud technologies**, developing **scalable solutions**, and contributing to **open-source projects**.<br>
 ⦿ &#8287; I am passionate about building **developer tools**, **smart systems**, and **interactive web applications**.<br>
 ⦿ &#8287; Let’s collaborate on **DevOps projects**, **cloud integrations**, or **software solutions**!<br>
-⦿ &#8287; Connect with me via ⟶ [**Telegram/Jayavardhan56**](https://t.me/Jayavardhan56)<br>
+⦿ &#8287; Connect with me via ⟶ [**Linkedin/Jayavardhan**](https://www.linkedin.com/in/konathala-jayavardhan-130907261)<br>
 
 <!-- Line Break -->
 <a href="http://www.github.com/Jayavardhan56">
