@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/konathala-jayavardhan-130907261"><img width="32px" alt="LinkedIn" title="LinkedIn" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/linkedin.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="jayavardhankonathala@gmail.com"><img width="32px" alt="Gmail" title="Gmail" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/gmail-new.png"/></a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvnrmJflbZvKDCFSWVBDPgtjjsrXJctqmkZtgmRppBsSKZVChxcVPvpHFFBTGlrCrDJzfg"><img width="32px" alt="Gmail" title="Gmail" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/gmail-new.png"/></a>
 </p>
 
 <!-- Introduction and Skills -->
