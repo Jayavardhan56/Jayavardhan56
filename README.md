@@ -2,7 +2,6 @@
   <img align="center" src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/header.svg" alt="GitHub header" width="100%"/>
 </a>
 
-<!-- Typing Animation with Link -->
 <a href="http://www.github.com/Jayavardhan56">
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=Hi,+I'm+K+Jayavardhan;B.Tech+Final+Year+Student;Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Coding+and+Learning!" alt="K Jayavardhan" />
 </a>
@@ -16,13 +15,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="jayavardhankonathala@gmail.com"><img width="32px" alt="Gmail" title="Gmail" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/gmail-new.png"/></a>
 </p>
-
-<!-- Profile Visits Counter -->
-<a href="http://www.github.com/Jayavardhan56">
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Jayavardhan56&label=+PROFILE+VIEWS+&color=2e9876"/>
-  </div>
-</a>
 
 <!-- Introduction and Skills -->
 ⦿ &#8287;Hi, I’m K Jayavardhan<br>
