@@ -79,13 +79,6 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/css3.png" width="30"/><br><b style="color:white;">CSS</b>
-      </td>
-      <td align="center">Advanced</td>
-      <td>Styled responsive UIs with Flexbox, Grid, custom themes.</td>
-    </tr>
-    <tr>
-      <td align="center">
         <img src="https://img.icons8.com/color/48/javascript--v1.png" width="30"/><br><b style="color:white;">JavaScript</b>
       </td>
       <td align="center">Intermediate</td>
