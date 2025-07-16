@@ -1,7 +1,7 @@
 <!-- GitHub README: K Jayavardhan -->
 
 <a href="http://www.github.com/Jayavardhan56">
-  <img align="center" src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/header.svg" alt="GitHub header" width="100%" style="filter: hue-rotate(185deg) saturate(150%);"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=K%20Jayavardhan&fontSize=40&fontColor=ffffff" width="100%"/>
 </a>
 
 <a href="http://www.github.com/Jayavardhan56">
@@ -60,7 +60,7 @@
 
 <!-- Github Profile Footer -->
 <a href="http://www.github.com/Jayavardhan56">
-  <img src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/footer.svg" alt="GitHub footer" width="100%" style="filter: hue-rotate(185deg) saturate(150%);"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=footer" width="100%"/>
 </a>
 
 <!-- Copyright © 2025 | K Jayavardhan -->
