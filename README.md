@@ -23,22 +23,106 @@
 ⦿ &#8287;Hi, I’m K Jayavardhan<br>
 ⦿ &#8287;Currently pursuing my **B.Tech in Computer Science** (Final Year)<br>
 ⦿ &#8287;I have expertise in:
+<div>
+<h3 align="center" style="color:#0A66C2;">🛠️ Technical Skills Overview</h3>
 
-<div align="center">
-
-### ⚙️ Tools & Technologies I Use
-<p align="center">
-  <img src="https://img.icons8.com/color/60/000000/amazon-web-services.png" alt="AWS" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/60/000000/docker.png" alt="Docker" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/60/000000/kubernetes.png" alt="Kubernetes" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/60/000000/linux.png" alt="Linux" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/glyph-neue/60/0A66C2/github.png" alt="GitHub" style="margin: 10px;"/>
-  <img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;"/>
-</p>
-
-**`Cloud Computing (AWS)`** | **`DevOps Tools`** | **`Frontend Design`**
-
+<table align="center" style="width:95%; border-collapse: collapse; background-color: #0d1117; color: white;">
+  <thead>
+    <tr style="background-color: #0A66C2; color: white;">
+      <th style="padding: 12px;">Skill</th>
+      <th style="padding: 12px;">Proficiency</th>
+      <th style="padding: 12px;">Description / Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="30"/><br><b style="color:white;">AWS</b>
+      </td>
+      <td align="center">Intermediate</td>
+      <td>Worked with EC2, S3, IAM, Lambda. Applied in internships and DevOps projects.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/google-cloud.png" width="30"/><br><b style="color:white;">Google Cloud</b>
+      </td>
+      <td align="center">Beginner</td>
+      <td>Exploring Compute Engine, GCS, IAM. Interest in multi-cloud strategy.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/jenkins.png" width="30"/><br><b style="color:white;">Jenkins</b>
+      </td>
+      <td align="center">Beginner</td>
+      <td>Used for learning CI/CD pipelines in DevOps-focused work.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/docker.png" width="30"/><br><b style="color:white;">Docker</b>
+      </td>
+      <td align="center">Intermediate</td>
+      <td>Created Dockerfiles, used containers for app deployment and testing.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/linux.png" width="30"/><br><b style="color:white;">Linux</b>
+      </td>
+      <td align="center">Intermediate</td>
+      <td>Command-line operations, shell scripting, system navigation.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/html-5--v1.png" width="30"/><br><b style="color:white;">HTML</b>
+      </td>
+      <td align="center">Advanced</td>
+      <td>Created structured pages and web layouts for multiple projects.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/css3.png" width="30"/><br><b style="color:white;">CSS</b>
+      </td>
+      <td align="center">Advanced</td>
+      <td>Styled responsive UIs with Flexbox, Grid, custom themes.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/javascript--v1.png" width="30"/><br><b style="color:white;">JavaScript</b>
+      </td>
+      <td align="center">Intermediate</td>
+      <td>Added dynamic functionality to web apps and quiz systems.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/c-programming.png" width="30"/><br><b style="color:white;">C</b>
+      </td>
+      <td align="center">Intermediate</td>
+      <td>Used for logic development, system-level academic programming.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="30"/><br><b style="color:white;">C++</b>
+      </td>
+      <td align="center">Intermediate</td>
+      <td>OOP principles, STL practice in competitive and course settings.</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="30"/><br><b style="color:white;">Java</b>
+      </td>
+      <td align="center">Intermediate</td>
+      <td>Used for Android apps, backend development (GlucoGuard).</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/python--v1.png" width="30"/><br><b style="color:white;">Python</b>
+      </td>
+      <td align="center">Intermediate</td>
+      <td>Applied in automation, AI/ML prototyping, Flask-based apps.</td>
+    </tr>
+  </tbody>
+</table>
 </div>
+
 
 ⦿ &#8287;Enthusiastic about exploring **cloud technologies**, developing **scalable solutions**, and contributing to **open-source**<br>
 ⦿ &#8287;Love building **developer tools**, **smart systems**, and **interactive web applications**<br>
