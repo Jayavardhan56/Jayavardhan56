@@ -1,7 +1,7 @@
 <!-- GitHub README: K Jayavardhan -->
 
 <a href="http://www.github.com/Jayavardhan56">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=K%20Jayavardhan&fontSize=40&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header" width="100%"/>
 </a>
 
 <a href="http://www.github.com/Jayavardhan56">
