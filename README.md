@@ -103,7 +103,7 @@
         <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="30"/><br><b style="color:white;">Java</b>
       </td>
       <td align="center">Intermediate</td>
-      <td>Used for Android apps, backend development (GlucoGuard).</td>
+      <td>Used for Android apps, backend development using Java(GlucoGuard).</td>
     </tr>
     <tr>
       <td align="center">
