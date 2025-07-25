@@ -138,7 +138,6 @@
   <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/></p>
 </a>
 
-<!-- Github Profile Footer -->
 <a href="http://www.github.com/Jayavardhan56">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=footer" width="100%"/>
 </a>
