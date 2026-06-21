@@ -1,5 +1,3 @@
-<!-- GitHub README: K Jayavardhan -->
-
 <a href="http://www.github.com/Jayavardhan56">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header" width="100%"/>
 </a>
@@ -116,7 +114,6 @@
 </table>
 </div>
 
-
 ⦿ &#8287;Enthusiastic about exploring **cloud technologies**, developing **scalable solutions**, and contributing to **open-source**<br>
 ⦿ &#8287;Love building **developer tools**, **smart systems**, and **interactive web applications**<br>
 ⦿ &#8287;Let’s collaborate on **DevOps**, **cloud automation**, or **web tech**<br>
@@ -126,20 +123,31 @@
   <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/></p>
 </a>
 
-<a href="http://www.github.com/Jayavardhan56">
-  <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/></p>
-</a>
+### 📊 GitHub Analytics
 
 | **STATS** | **STREAK** |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| :---: | :---: |
 | <a href="http://www.github.com/Jayavardhan56"><img alt="Jayavardhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jayavardhan56&show_icons=true&hide=prs,stars&count_private=true&title_color=0A66C2&text_color=ffffff&icon_color=0A66C2&bg_color=0d1117&hide_border=true&rank_icon=github" width="100%"/></a> | <a href="http://www.github.com/Jayavardhan56"><img src="https://streak-stats.demolab.com/?user=Jayavardhan56&stroke=ffffff&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakNum=ffffff&currStreakLabel=0A66C2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_seconds=86400" alt="Jayavardhan Streak" width="100%"/></a> |
+
+<p align="center">
+  <a href="http://www.github.com/Jayavardhan56">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavardhan56&layout=compact&title_color=0A66C2&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  </a>
+  <a href="http://www.github.com/Jayavardhan56">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayavardhan56&bg_color=0d1117&color=0A66C2&line=0A66C2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="48%" />
+  </a>
+</p>
 
 <a href="http://www.github.com/Jayavardhan56">
   <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/></p>
 </a>
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jayavardhan56/Jayavardhan56/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
 
 <a href="http://www.github.com/Jayavardhan56">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=footer" width="100%"/>
 </a>
-
-<!-- Copyright © 2025 | K Jayavardhan -->
