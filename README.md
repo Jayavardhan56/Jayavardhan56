@@ -142,7 +142,7 @@
   <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/></p>
 </a>
 
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jayavardhan56/Jayavardhan56/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
