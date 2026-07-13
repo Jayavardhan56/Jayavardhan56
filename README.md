@@ -1,171 +1,169 @@
-<a href="http://www.github.com/Jayavardhan56">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header" width="100%"/>
+<a href="https://github.com/Jayavardhan56">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=K%20Jayavardhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </a>
-
-<a href="http://www.github.com/Jayavardhan56">
-  <img
-    width="100%"
-    src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=700&lines=Hi,+I'm+K+Jayavardhan;Computer+Science+Graduate;Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Coding+and+Learning!"
-    alt="K Jayavardhan"
-  />
-</a>
-
-<br>
 
 <p align="center">
-  <a href="https://t.me/Jayavardhan56">
-    <img width="36px" src="https://img.icons8.com/ios-filled/50/0A66C2/telegram-app.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/konathala-jayavardhan-130907261">
-    <img width="36px" src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:your-email@example.com">
-    <img width="36px" src="https://img.icons8.com/ios-filled/50/0A66C2/gmail-new.png"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=26&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/konathala-jayavardhan-130907261">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Jayavardhan56">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Jayavardhan56&label=Profile%20Views&color=0A66C2&style=flat)
+
 </p>
 
 ---
 
-- 👋 Hi, I'm **K Jayavardhan**
-- 🎓 Computer Science Graduate
-- 💼 Aspiring DevOps Engineer & Full Stack Developer
+# 👨‍💻 About Me
 
-<h3 align="center" style="color:#0A66C2;">
-🛠️ Technical Skills Overview
-</h3>
+🎓 B.Tech Computer Science Graduate (2026)
 
-<table align="center" style="width:95%; border-collapse: collapse; background-color:#0d1117; color:white;">
-<thead>
-<tr style="background-color:#0A66C2; color:white;">
-<th>Skill</th>
-<th>Proficiency</th>
-<th>Description / Tools</th>
-</tr>
-</thead>
+💻 Aspiring DevOps Engineer passionate about Cloud Computing, Automation, and CI/CD.
 
-<tbody>
+🚀 Interested in building scalable cloud-native applications and deployment pipelines.
 
-<tr>
-<td>AWS</td>
-<td>Intermediate</td>
-<td>EC2, S3, IAM, Lambda</td>
-</tr>
+🌱 Currently learning
 
-<tr>
-<td>Google Cloud</td>
-<td>Beginner</td>
-<td>Compute Engine, IAM</td>
-</tr>
+- Kubernetes
+- Terraform
+- AWS
+- Docker
+- Jenkins
+- GitHub Actions
 
-<tr>
-<td>Docker</td>
-<td>Intermediate</td>
-<td>Containerization</td>
-</tr>
+💬 Ask me about
 
-<tr>
-<td>Jenkins</td>
-<td>Beginner</td>
-<td>CI/CD</td>
-</tr>
+- Python
+- Java
+- React
+- Django
+- Docker
+- AWS
 
-<tr>
-<td>Linux</td>
-<td>Intermediate</td>
-<td>Shell & CLI</td>
-</tr>
+---
 
-<tr>
-<td>Java</td>
-<td>Intermediate</td>
-<td>Backend Development</td>
-</tr>
+# 🚀 Tech Stack
 
-<tr>
-<td>Python</td>
-<td>Intermediate</td>
-<td>Automation & AI</td>
-</tr>
+### Languages
 
-<tr>
-<td>JavaScript</td>
-<td>Intermediate</td>
-<td>Frontend Development</td>
-</tr>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<tr>
-<td>HTML/CSS</td>
-<td>Advanced</td>
-<td>Responsive UI</td>
-</tr>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<tr>
-<td>C/C++</td>
-<td>Intermediate</td>
-<td>Programming Fundamentals</td>
-</tr>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</tbody>
-</table>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- ☁️ Enthusiastic about Cloud Technologies, Scalable Solutions & Open Source
-- 🚀 Love building Developer Tools & Interactive Web Applications
-- 🤝 Open to Software Engineer & DevOps Opportunities
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<a href="http://www.github.com/Jayavardhan56">
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/>
-  </p>
-</a>
+---
 
-# 📊 GitHub Analytics
+### Frontend
 
-| **STATS** | **STREAK** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Jayavardhan56&show_icons=true&hide=prs,stars&count_private=true&title_color=0A66C2&text_color=ffffff&icon_color=0A66C2&bg_color=0d1117&hide_border=true&rank_icon=github"/> | <img src="https://streak-stats.demolab.com/?user=Jayavardhan56&stroke=ffffff&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakNum=ffffff&currStreakLabel=0A66C2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> |
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Jayavardhan56&bg_color=0d1117&color=0A66C2&line=0A66C2&point=ffffff&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 
-<a href="http://www.github.com/Jayavardhan56">
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/>
-  </p>
-</a>
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-# 🏆 GitHub Achievements
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+---
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+![Django REST](https://img.shields.io/badge/DRF-red?style=for-the-badge)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+### DevOps & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+# 📜 Certifications
+
+🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
+
+🏅 Microsoft AI Skills Fest Participant
+
+---
+
+# 🎯 Current Focus
+
+✔ Kubernetes
+
+✔ Terraform
+
+✔ AWS DevOps
+
+✔ CI/CD Pipelines
+
+✔ Infrastructure as Code
+
+✔ Cloud Automation
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Jayavardhan56&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"
-  />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayavardhan56&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavardhan56&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-# 💻 Technologies I Work With
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,python,react,django,postgres,mysql,docker,jenkins,aws,git,github,linux,vscode&perline=6"
-  />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jayavardhan56&theme=algolia&no-frame=true&row=1&column=6"/>
+
 </p>
 
-# 🚀 Current Focus
+---
 
-- 🔹 Building Full Stack Applications
-- 🔹 Learning Spring Boot & Microservices
-- 🔹 Exploring AWS & DevOps
-- 🔹 Practicing Data Structures & Algorithms
-- 🔹 Open to Software Engineer & DevOps Opportunities
+# 💡 Quote
 
-<a href="http://www.github.com/Jayavardhan56">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=footer"
-    width="100%"
-  />
-</a>
+> "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=140&section=footer"/>
+
+</p>
