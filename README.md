@@ -19,7 +19,7 @@
 ---
 
 ⦿ &#8287;Hi, I’m K Jayavardhan<br>
-⦿ &#8287;Currently pursuing my **B.Tech in Computer Science** (Final Year)<br>
+⦿ &#8287;**B.Tech Computer Science Graduate(2026)**<br>
 ⦿ &#8287;I have expertise in:
 <div>
 <h3 align="center" style="color:#0A66C2;">🛠️ Technical Skills Overview</h3>
