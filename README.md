@@ -3,7 +3,7 @@
 </a>
 
 <a href="http://www.github.com/Jayavardhan56">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+K+Jayavardhan;B.Tech+Final+Year+Student;Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Coding+and+Learning!" alt="K Jayavardhan" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+K+Jayavardhan;B.Tech+Computer+Science+Graduate;Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Coding+and+Learning!" alt="K Jayavardhan" />
 </a>
 
 <br>
