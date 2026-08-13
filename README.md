@@ -1,249 +1,316 @@
 <div align="center">
 
-<a href="https://github.com/Jayavardhan56">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&fontColor=ffffff&text=K%20JAYAVARDHAN&fontSize=42&fontAlignY=35&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=18&descColor=0A66C2" width="100%"/>
-</a>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- TERMINAL HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<br>
-
-<a href="https://github.com/Jayavardhan56">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&lines=Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Linux+%7C+Docker+%7C+Jenkins;AWS+%7C+Git+%7C+CI%2FCD;Building+%E2%80%A2+Automating+%E2%80%A2+Learning" />
-</a>
-
-<br>
-
-<!-- ======================= MAC TERMINAL ======================= -->
-
-<table align="center" width="94%" cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td>
 
+<div align="left">
+
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td width="70">
+
+<span style="font-size:18px;">🔴 🟡 🟢</span>
+
+</td>
+
+<td>
+
+<b>jayavardhan@MacBook-Pro</b>
+<br>
+<sub>zsh — 120×32</sub>
+
+</td>
+
+<td align="right">
+
+<code>⌘</code>
+
+</td>
+</tr>
+</table>
+
+<hr>
+
 ```text
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ ●  ●  ●     jayavardhan@macbook-pro — zsh                               │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  jayavardhan@macbook ~ % whoami                                             │
-│  K Jayavardhan                                                               │
-│                                                                              │
-│  jayavardhan@macbook ~ % cat profile.txt                                    │
-│                                                                              │
-│  B.Tech Computer Science Graduate • 2026                                    │
-│  Aspiring DevOps Engineer                                                    │
-│  Cloud Computing Enthusiast                                                  │
-│                                                                              │
-│  Focused on cloud infrastructure, deployment automation,                     │
-│  containerization, Linux and CI/CD practices.                                │
-│                                                                              │
-│  jayavardhan@macbook ~ % echo $CURRENT_FOCUS                               │
-│                                                                              │
-│  AWS • Docker • Jenkins • Linux • Git • CI/CD • Cloud                       │
-│                                                                              │
-│  jayavardhan@macbook ~ % _                                                   │
-│                                                                              │
-╰──────────────────────────────────────────────────────────────────────────────╯
-</td> </tr> </table> <br> <!-- ======================= SOCIAL ======================= --> <p align="center"> <a href="https://github.com/Jayavardhan56"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/> </a> <a href="https://www.linkedin.com/in/konathala-jayavardhan-130907261"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://t.me/Jayavardhan56"> <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=2AABEE"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </p> <br> <!-- ======================= ABOUT ======================= -->
-<samp>jayavardhan@macbook ~ % ./about</samp>
-<table align="center" width="94%"> <tr> <td width="50%" valign="top">
-👨‍💻 About Me
-Name        : K Jayavardhan
-Education   : B.Tech CSE
-Graduation  : 2026
-Role        : Aspiring DevOps Engineer
-Location    : India
+Last login: Thu Aug 13 2026 on ttys001
 
-Passionate about:
-→ Cloud Technologies
-→ DevOps
-→ Automation
-→ Linux
-→ Backend Systems
-→ Scalable Applications
-</td> <td width="50%" valign="top">
-🎯 What I Do
-01  Learn
-02  Build
-03  Automate
-04  Deploy
-05  Improve
+jayavardhan@MacBook-Pro ~ % neofetch
 
-I enjoy understanding how software
-moves from development to deployment
-and how infrastructure can be made
-more reliable and repeatable.
-</td> </tr> </table> <br> <!-- ======================= INTERACTIVE PROFILE ======================= --> <details> <summary><b> Open terminal</b></summary> <br>
-jayavardhan@macbook ~ % pwd
-/Users/jayavardhan
+             .:'                    jayavardhan@MacBook-Pro
+         _ :' _                     ─────────────────────────────
+      .-' `   ` '-.                 OS      macOS / Linux
+    .'             '.               Shell   zsh / bash
+   /    .-"""-.      \              Role    DevOps Aspirant
+  ;    /       \      ;             Focus   Cloud + Automation
+  |   |  ◉   ◉  |     |             Status  OPEN TO WORK
+  ;    \   ^   /      ;
+   \    '.___.'      /              ─────────────────────────────
+    '.             .'               AWS       █████████░  learning
+      '-._______.-'                 Docker    █████████░  hands-on
+                                    Linux     █████████░  hands-on
+                                    Git       ██████████  strong
+                                    Jenkins   ███████░░░  learning
+                                    CI/CD     ███████░░░  learning
 
-jayavardhan@macbook ~ % ls
+jayavardhan@MacBook-Pro ~ % whoami
 
-Cloud/          DevOps/          Linux/
-Backend/        Automation/      Learning/
+K Jayavardhan
 
-jayavardhan@macbook ~ % cat mindset.txt
+jayavardhan@MacBook-Pro ~ % echo $MISSION
 
-Build real things.
-Automate repetitive work.
-Understand the infrastructure.
-Learn continuously.
-Keep improving.
+Build → Automate → Deploy → Monitor → Improve
 
-jayavardhan@macbook ~ % _
-</details> <br> <!-- ======================= TECH STACK ======================= -->
-<samp>jayavardhan@macbook ~ % tech-stack</samp>
-<div align="center">
-☁️ CLOUD
-<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
+jayavardhan@MacBook-Pro ~ % _
+</div> </td> </tr> </table> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- COMMAND BAR --> <!-- ═══════════════════════════════════════════════════════════════════════ --> <a href="#about"> <img src="https://img.shields.io/badge/./about-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=ffffff&labelColor=0d1117"/> </a> &nbsp; <a href="#stack"> <img src="https://img.shields.io/badge/./stack-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0d1117"/> </a> &nbsp; <a href="#github"> <img src="https://img.shields.io/badge/./github-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117"/> </a> &nbsp; <a href="#connect"> <img src="https://img.shields.io/badge/./connect-0d1117?style=for-the-badge&logo=matrix&logoColor=0A66C2&labelColor=0d1117"/> </a>
 
 <br><br>
 
-⚙️ DEVOPS & INFRASTRUCTURE
-<img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github&theme=dark" />
+<a href="https://github.com/Jayavardhan56"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=850&lines=K+Jayavardhan+%7C+Aspiring+DevOps+Engineer;Cloud+%7C+Linux+%7C+Docker+%7C+CI%2FCD;AWS+%7C+Git+%7C+Jenkins+%7C+Automation;Turning+code+into+reliable%2C+deployable+systems." /> </a> </div> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- ABOUT --> <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<br><br>
+<a name="about"></a>
 
-💻 PROGRAMMING
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark" />
+<h2 align="left"> <samp>jayavardhan@MacBook-Pro:~$ ./about</samp> </h2> <table width="100%"> <tr> <td width="55%" valign="top">
+┌─ ABOUT ─────────────────────────────────────────────────┐
+│                                                         │
+│  I'm K Jayavardhan, a B.Tech Computer Science          │
+│  graduate focused on starting my career in             │
+│  DevOps and Cloud Engineering.                          │
+│                                                         │
+│  I enjoy working close to the infrastructure layer —   │
+│  Linux systems, containers, CI/CD pipelines, cloud      │
+│  services and deployment automation.                    │
+│                                                         │
+│  I learn by building, breaking, debugging and           │
+│  rebuilding systems until I understand how they work.   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+</td> <td width="45%" valign="top">
+┌─ SYSTEM ────────────────────────────────────────────────┐
+│                                                         │
+│  USER        jayavardhan                                │
+│  ROLE        DevOps Aspirant                            │
+│  DEGREE      B.Tech CSE                                 │
+│  YEAR        2026                                       │
+│  MODE        Learning + Building                        │
+│                                                         │
+│  LOCATION    India                                      │
+│  STATUS      ● Available                                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+</td> </tr> </table> <br> <details> <summary> <b>⌄ cat /etc/jayavardhan/mindset.conf</b> </summary> <br>
+[engineering]
 
-<br><br>
+build_with_purpose=true
+automate_repetition=true
+understand_the_system=true
+learn_from_failures=true
+document_the_process=true
+keep_improving=true
 
-🌐 DEVELOPMENT
-<img src="https://skillicons.dev/icons?i=react,django,spring,html,css&theme=dark" />
+[principle]
 
-<br><br>
+A working application is only one part of the system.
 
-🗄️ DATABASE & TOOLS
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,postman,vscode&theme=dark" /> </div> <br> <!-- ======================= SKILLS ======================= --> <details> <summary><b>⚙️ View technical skills</b></summary> <br> <table align="center" width="94%"> <tr> <th align="left">Category</th> <th align="left">Technologies</th> </tr> <tr> <td>☁️ Cloud</td> <td>AWS · EC2 · S3 · IAM · Lambda · Google Cloud</td> </tr> <tr> <td>🚀 DevOps</td> <td>Docker · Jenkins · Git · GitHub · CI/CD</td> </tr> <tr> <td>🐧 Linux</td> <td>Linux · Shell · CLI · System Administration Basics</td> </tr> <tr> <td>☕ Programming</td> <td>Java · Python · C · C++ · JavaScript</td> </tr> <tr> <td>🌐 Development</td> <td>React · Django · Spring Boot · HTML · CSS</td> </tr> <tr> <td>🗄️ Database</td> <td>PostgreSQL · MySQL · SQL</td> </tr> <tr> <td>🔧 Tools</td> <td>VS Code · Postman · GitHub</td> </tr> </table> </details> <br> <!-- ======================= DEVOPS FLOW ======================= -->
-<samp>jayavardhan@macbook ~ % ./devops-workflow</samp>
-<p align="center">
-                         ┌───────────────┐
-                         │     CODE      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │      GIT      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     BUILD     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     TEST      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    DOCKER     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     CI/CD     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     CLOUD     │
-                         └───────────────┘
-</p> <br> <!-- ======================= CURRENT FOCUS ======================= -->
-<samp>jayavardhan@macbook ~ % cat current_focus.sh</samp>
-<table align="center" width="94%"> <tr> <td align="center">
-☁️ Cloud
+I want to understand what happens before deployment,
+during deployment, and after the application reaches
+the infrastructure.
+
+[goal]
+
+Become a production-ready DevOps / Cloud Engineer.
+</details> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- STACK --> <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<a name="stack"></a>
+
+<h2 align="left"> <samp>jayavardhan@MacBook-Pro:~$ ls ~/stack</samp> </h2> <table width="100%"> <tr> <td width="50%" valign="top"> <h3>☁️ cloud/</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark"/> </p> <pre> AWS ├── EC2 ├── S3 ├── IAM └── Lambda Google Cloud └── Cloud fundamentals </pre> </td> <td width="50%" valign="top"> <h3>🐧 infrastructure/</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=linux,docker,jenkins&theme=dark"/> </p> <pre> Linux ├── CLI ├── Shell └── System basics Docker └── Containerization Jenkins └── CI/CD </pre> </td> </tr> <tr> <td width="50%" valign="top"> <h3>💻 programming/</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark"/> </p> <pre> Java Python C C++ JavaScript </pre> </td> <td width="50%" valign="top"> <h3>🌐 development/</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=react,django,spring,html,css&theme=dark"/> </p> <pre> React Django Spring Boot HTML CSS REST APIs </pre> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🗄️ data/</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark"/> </p> <pre> PostgreSQL MySQL SQL Database fundamentals </pre> </td> <td width="50%" valign="top"> <h3>🔧 tools/</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/> </p> <pre> Git GitHub VS Code Postman </pre> </td> </tr> </table> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- INTERACTIVE SKILL TERMINAL --> <!-- ═══════════════════════════════════════════════════════════════════════ --> <details> <summary> <b>⌄ ./skills --verbose</b> </summary> <br>
+jayavardhan@MacBook-Pro ~ % ./skills --verbose
+
+[ CLOUD ]
 
 AWS
-Cloud Infrastructure
-Deployment
-IAM
+  ├─ EC2
+  ├─ S3
+  ├─ IAM
+  └─ Lambda
 
-</td> <td align="center">
-🐳 Containers
+[ DEVOPS ]
 
 Docker
-Images
-Containers
-Deployment
-
-</td> <td align="center">
-🔄 CI/CD
+  ├─ Dockerfiles
+  ├─ Images
+  ├─ Containers
+  └─ Deployment
 
 Jenkins
-GitHub
+  └─ CI/CD pipeline fundamentals
+
+Git / GitHub
+  ├─ Version control
+  ├─ Branching
+  └─ Repository workflows
+
+[ SYSTEMS ]
+
+Linux
+  ├─ Command line
+  ├─ File system
+  ├─ Processes
+  └─ Shell fundamentals
+
+[ DEVELOPMENT ]
+
+Java
+Python
+JavaScript
+React
+Django
+Spring Boot
+REST APIs
+
+[ DATABASE ]
+
+PostgreSQL
+MySQL
+SQL
+
+jayavardhan@MacBook-Pro ~ % _
+</details> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- DEVOPS PIPELINE --> <!-- ═══════════════════════════════════════════════════════════════════════ --> <h2 align="left"> <samp>jayavardhan@MacBook-Pro:~$ cat /etc/devops/pipeline</samp> </h2> <table align="center"> <tr> <td align="center">
+
+<kbd>CODE</kbd>
+<br>
+↓
+<br>
+<kbd>GIT</kbd>
+<br>
+↓
+<br>
+<kbd>BUILD</kbd>
+<br>
+↓
+<br>
+<kbd>TEST</kbd>
+<br>
+↓
+<br>
+<kbd>DOCKER</kbd>
+<br>
+↓
+<br>
+<kbd>CI/CD</kbd>
+<br>
+↓
+<br>
+<kbd>CLOUD</kbd>
+<br>
+↓
+<br>
+<kbd>MONITOR</kbd>
+
+</td> </tr> </table> <br> <p align="center"> <img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/BUILD-0d1117?style=for-the-badge&logo=githubactions&logoColor=ffffff"/> <img src="https://img.shields.io/badge/TEST-0d1117?style=for-the-badge&logo=pytest&logoColor=0A66C2"/> <img src="https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/DEPLOY-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/> </p> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- CURRENTLY --> <!-- ═══════════════════════════════════════════════════════════════════════ --> <h2 align="left"> <samp>jayavardhan@MacBook-Pro:~$ top --learning</samp> </h2> <table width="100%"> <tr> <td width="25%" align="center">
+🐳
+
+Docker
+
+Containerization
+Images
+Deployment
+
+</td> <td width="25%" align="center">
+☁️
+
+AWS
+
+Cloud
+Infrastructure
+Services
+
+</td> <td width="25%" align="center">
+🔄
+
+CI/CD
+
+Jenkins
 Automation
 Pipelines
 
-</td> <td align="center">
-🐧 Systems
+</td> <td width="25%" align="center">
+☸️
 
-Linux
-Shell
-CLI
-Troubleshooting
+Kubernetes
 
-</td> </tr> </table> <br> <!-- ======================= LEARNING ======================= --> <details> <summary><b>📚 Current learning roadmap</b></summary> <br>
-[✓] Linux Fundamentals
-[✓] Git & GitHub
-[✓] Docker
-[✓] AWS Fundamentals
-[✓] Jenkins Basics
+Containers
+Orchestration
+Scaling
 
-[→] Advanced CI/CD
-[→] Kubernetes
-[→] Cloud Infrastructure
-[→] Infrastructure Automation
-[→] Production Deployment Practices
-</details> <br> <!-- ======================= GITHUB ======================= -->
-<samp>jayavardhan@macbook ~ % github --stats</samp>
-<p align="center"> <a href="https://github.com/Jayavardhan56"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jayavardhan56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=0A66C2"/> </a> <a href="https://github.com/Jayavardhan56"> <img height="180" src="https://streak-stats.demolab.com/?user=Jayavardhan56&hide_border=true&background=0d1117&stroke=30363d&ring=0A66C2&fire=0A66C2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e"/> </a> </p> <br> <!-- ======================= LANGUAGES ======================= --> <p align="center"> <a href="https://github.com/Jayavardhan56"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavardhan56&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff"/> </a> </p> <br> <!-- ======================= CONTRIBUTION GRAPH ======================= -->
-<samp>jayavardhan@macbook ~ % git log --activity</samp>
-<p align="center"> <a href="https://github.com/Jayavardhan56"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayavardhan56&bg_color=0d1117&color=ffffff&line=0A66C2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/> </a> </p> <br> <!-- ======================= INTERACTIVE TERMINAL COMMANDS ======================= -->
-<samp>jayavardhan@macbook ~ % ./interactive</samp>
-<details> <summary><b>💼 What roles am I targeting?</b></summary> <br>
-DevOps Engineer
-Junior DevOps Engineer
-Cloud Engineer
-Cloud Support Engineer
-DevOps Intern
-Backend Developer
-Software Engineer
-</details> <br> <details> <summary><b>🤝 What can I collaborate on?</b></summary> <br>
+</td> </tr> </table> <br> <details> <summary> <b>⌄ tail -f ~/learning.log</b> </summary> <br>
+2026-08-13 16:00  [INFO] Linux fundamentals              ✓
+2026-08-13 16:05  [INFO] Git & GitHub                    ✓
+2026-08-13 16:10  [INFO] Docker                          ✓
+2026-08-13 16:15  [INFO] AWS fundamentals                ✓
+2026-08-13 16:20  [INFO] Jenkins / CI-CD                 →
+2026-08-13 16:25  [INFO] Kubernetes                      →
+2026-08-13 16:30  [INFO] Cloud infrastructure            →
+2026-08-13 16:35  [INFO] Infrastructure automation       →
+</details> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- GITHUB --> <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<a name="github"></a>
+
+<h2 align="left"> <samp>jayavardhan@MacBook-Pro:~$ git --stats</samp> </h2> <p align="center"> <a href="https://github.com/Jayavardhan56"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jayavardhan56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=0A66C2"/> </a> <a href="https://github.com/Jayavardhan56"> <img height="180" src="https://streak-stats.demolab.com/?user=Jayavardhan56&hide_border=true&background=0d1117&stroke=30363d&ring=0A66C2&fire=0A66C2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e"/> </a> </p> <br> <h3 align="center"> <samp>language_distribution</samp> </h3> <p align="center"> <a href="https://github.com/Jayavardhan56"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavardhan56&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff"/> </a> </p> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- CONTRIBUTION GRAPH --> <!-- ═══════════════════════════════════════════════════════════════════════ --> <h2 align="left"> <samp>jayavardhan@MacBook-Pro:~$ git log --graph --all</samp> </h2> <p align="center"> <a href="https://github.com/Jayavardhan56"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayavardhan56&bg_color=0d1117&color=ffffff&line=0A66C2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"/> </a> </p> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- GITHUB METRICS --> <!-- ═══════════════════════════════════════════════════════════════════════ --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jayavardhan56&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jayavardhan56?label=FOLLOWERS&style=for-the-badge&color=0A66C2&labelColor=0d1117"/> <img src="https://img.shields.io/github/stars/Jayavardhan56?label=STARS&style=for-the-badge&color=0A66C2&labelColor=0d1117"/> </p> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- INTERACTIVE COMMANDS --> <!-- ═══════════════════════════════════════════════════════════════════════ --> <h2 align="left"> <samp>jayavardhan@MacBook-Pro:~$ help</samp> </h2> <details> <summary><b>▶ ./career --target</b></summary> <br>
+TARGET ROLES
+────────────
+
+01  DevOps Engineer
+02  Junior DevOps Engineer
+03  Cloud Engineer
+04  Cloud Support Engineer
+05  DevOps Intern
+06  Software Engineer
+</details> <br> <details> <summary><b>▶ ./focus --current</b></summary> <br>
+CURRENT FOCUS
+─────────────
+
 Cloud Infrastructure
-DevOps Automation
-CI/CD
-Docker
 Linux
-Developer Tools
-Backend Systems
-Open Source
-</details> <br> <details> <summary><b>🚀 What am I working towards?</b></summary> <br>
-Become a strong DevOps / Cloud Engineer
-with practical experience in:
+Docker
+CI/CD
+Jenkins
+Git & GitHub
+Automation
+Container Orchestration
+</details> <br> <details> <summary><b>▶ ./connect --available</b></summary> <br>
+COLLABORATION
+─────────────
 
-→ Infrastructure
-→ Automation
-→ Containers
-→ CI/CD
-→ Cloud platforms
-→ Production systems
-</details> <br> <!-- ======================= PROFILE METRICS ======================= --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jayavardhan56&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jayavardhan56?label=FOLLOWERS&style=for-the-badge&color=0A66C2&labelColor=0d1117"/> <img src="https://img.shields.io/github/stars/Jayavardhan56?label=STARS&style=for-the-badge&color=0A66C2&labelColor=0d1117"/> </p> <br> <!-- ======================= CONTACT ======================= -->
-<samp>jayavardhan@macbook ~ % connect</samp>
-<p align="center"> <a href="https://www.linkedin.com/in/konathala-jayavardhan-130907261"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/> </a> <a href="https://github.com/Jayavardhan56"> <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=0d1117"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </p> <br> <!-- ======================= FOOTER TERMINAL ======================= --> <table align="center" width="94%" cellpadding="0" cellspacing="0"> <tr> <td>
+✓ DevOps
+✓ Cloud
+✓ CI/CD
+✓ Automation
+✓ Backend
+✓ Developer Tools
+✓ Open Source
+</details> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- CONNECT --> <!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<a name="connect"></a>
+
+<h2 align="left"> <samp>jayavardhan@MacBook-Pro:~$ connect</samp> </h2> <p align="center"> <a href="https://github.com/Jayavardhan56"> <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0d1117"/> </a> <a href="https://www.linkedin.com/in/konathala-jayavardhan-130907261"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a> <a href="https://t.me/Jayavardhan56"> <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/> </a> </p> <br> <!-- ═══════════════════════════════════════════════════════════════════════ --> <!-- FOOTER TERMINAL --> <!-- ═══════════════════════════════════════════════════════════════════════ --> <table width="100%" cellpadding="0" cellspacing="0"> <tr> <td>
 ╭──────────────────────────────────────────────────────────────────────────────╮
-│ ●  ●  ●     terminal                                                       │
+│ 🔴 🟡 🟢     jayavardhan@MacBook-Pro — zsh                              │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│  jayavardhan@macbook ~ % echo "Thanks for visiting my profile!"             │
+│  jayavardhan@MacBook-Pro ~ % echo $PATH                                    │
 │                                                                              │
-│  Thanks for visiting my profile 🚀                                          │
+│  /usr/local/bin:/opt/devops:/usr/bin:/cloud:/automation                    │
 │                                                                              │
-│  jayavardhan@macbook ~ % git status                                         │
-│  On branch main                                                             │
-│  working tree clean                                                         │
+│  jayavardhan@MacBook-Pro ~ % echo "Thanks for visiting."                   │
 │                                                                              │
-│  jayavardhan@macbook ~ % _                                                  │
+│  Thanks for visiting. 🚀                                                    │
+│                                                                              │
+│  jayavardhan@MacBook-Pro ~ % exit                                          │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 </td> </tr> </table> <br> <a href="https://github.com/Jayavardhan56"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" width="100%"/> </a> </div> ```
