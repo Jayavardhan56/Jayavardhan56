@@ -1,3 +1,4 @@
+<div id="mac-terminal-app">
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,13 +9,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
     <style>
-        * {
+        #mac-terminal-app {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
-        }
-
-        body {
             background-color: #0d1117;
             color: #c9d1d9;
             font-family: 'JetBrains Mono', monospace;
@@ -27,12 +25,12 @@
 
         .terminal-window {
             width: 100%;
-            max-width: 900px;
+            max-width: 950px;
             height: 85vh;
             background-color: #161b22;
             border-radius: 10px;
             border: 1px solid #30363d;
-            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7);
             display: flex;
             flex-direction: column;
             overflow: hidden;
@@ -70,11 +68,6 @@
             font-weight: 500;
         }
 
-        .window-actions {
-            color: #8b949e;
-            font-size: 0.85rem;
-        }
-
         .terminal-body {
             padding: 20px;
             flex-grow: 1;
@@ -83,7 +76,6 @@
             line-height: 1.5;
         }
 
-        /* Custom Scrollbar */
         .terminal-body::-webkit-scrollbar {
             width: 8px;
         }
@@ -158,17 +150,6 @@
             margin: 10px 0;
         }
 
-        .info-table {
-            border-collapse: collapse;
-            width: 100%;
-            margin: 10px 0;
-        }
-
-        .info-table td {
-            padding: 4px 8px;
-            vertical-align: top;
-        }
-
         .box {
             border: 1px solid #30363d;
             border-radius: 6px;
@@ -190,11 +171,10 @@
             color: #3fb950;
         }
 
-        .help-grid {
-            display: grid;
-            grid-template-columns: auto 1fr;
-            gap: 8px 20px;
-            margin: 10px 0;
+        .img-badge {
+            height: 26px;
+            margin: 2px;
+            vertical-align: middle;
         }
     </style>
 </head>
@@ -208,7 +188,7 @@
             <span class="btn btn-maximize"></span>
         </div>
         <div class="window-title">jayavardhan@MacBook-Pro — zsh — 120×32</div>
-        <div class="window-actions">⌘</div>
+        <div style="color: #8b949e; font-size: 0.85rem;">⌘</div>
     </div>
     
     <div class="terminal-body" id="terminal-body">
@@ -232,15 +212,15 @@
 
     const profileData = {
         name: "K Jayavardhan",
-        role: "DevOps Aspirant",
+        role: "DevOps Engineer / Cloud Aspirant",
         degree: "B.Tech CSE",
         year: "2026",
-        location: "India",
-        status: "Available / OPEN TO WORK",
+        status: "OPEN TO WORK",
         mission: "Build → Automate → Deploy → Monitor → Improve",
         github: "https://github.com/Jayavardhan56",
         linkedin: "https://www.linkedin.com/in/konathala-jayavardhan-130907261",
-        telegram: "https://t.me/Jayavardhan56"
+        telegram: "https://t.me/Jayavardhan56",
+        email: "konathalajayavardhan@gmail.com"
     };
 
     const commandHistory = [];
@@ -250,15 +230,15 @@
         'help': () => `
 <span class="accent">AVAILABLE COMMANDS:</span>
 
-  <span class="highlight">neofetch</span>        Display system summary & skill ratings
-  <span class="highlight">whoami</span>          Display current user identity
+  <span class="highlight">neofetch</span>        System summary & skill levels
+  <span class="highlight">whoami</span>          Display current identity
   <span class="highlight">about</span>           About K Jayavardhan
-  <span class="highlight">stack</span>           List technical skills & ecosystem
-  <span class="highlight">pipeline</span>        View DevOps workflow
-  <span class="highlight">learning</span>        Display current learning status & logs
-  <span class="highlight">connect</span>         Social links & communication handles
-  <span class="highlight">mission</span>         Show career echo mission statement
-  <span class="highlight">clear</span>           Clear terminal screen
+  <span class="highlight">skills</span>          Technical stack & programming languages
+  <span class="highlight">pipeline</span>        DevOps deployment lifecycle
+  <span class="highlight">stats</span>           GitHub streak, languages & contribution graph
+  <span class="highlight">learning</span>        Current focus & roadmap logs
+  <span class="highlight">connect</span>         Socials & contact information
+  <span class="highlight">clear</span>           Clear terminal window
 `,
 
         'neofetch': () => `
@@ -309,14 +289,13 @@ I learn by building, breaking, debugging, and rebuilding systems until I underst
 </div>
 `,
 
-        'stack': () => `
-<span class="accent">SYSTEM STACK & TOOLS</span>
-────────────────────
-
+        'skills': () => `
+<span class="accent">TECHNICAL STACK & LANGUAGES</span>
+───────────────────────────
 ☁️  <span class="highlight">Cloud:</span>          AWS (EC2, S3, IAM, Lambda), GCP Basics
 🐧 <span class="highlight">Infrastructure:</span> Linux, Docker, Jenkins
-💻 <span class="highlight">Programming:</span>    Java, Python, C, C++, JavaScript
-🌐 <span class="highlight">Development:</span>    React, Django, Spring Boot, REST APIs
+💻 <span class="highlight">Languages:</span>      Java, Python, C, C++, JavaScript
+🌐 <span class="highlight">Frameworks:</span>     React, Django, Spring Boot, REST APIs
 🗄️ <span class="highlight">Databases:</span>      PostgreSQL, MySQL, SQL
 🔧 <span class="highlight">Tools:</span>          Git, GitHub, VS Code, Postman
 `,
@@ -327,35 +306,39 @@ I learn by building, breaking, debugging, and rebuilding systems until I underst
 [CODE] ➔ [GIT] ➔ [BUILD] ➔ [TEST] ➔ [DOCKER] ➔ [CI/CD] ➔ [CLOUD] ➔ [MONITOR]
 `,
 
-        'learning': () => `
-<span class="accent">CURRENTLY LEARNING & TOP TRACKS</span>
-───────────────────────────────
-🐳  <span class="highlight">Docker</span>      : Containerization, Images, Deployment
-☁️  <span class="highlight">AWS</span>         : Cloud Infrastructure, Core Services
-🔄 <span class="highlight">CI/CD</span>       : Jenkins, Automation, Pipelines
-☸️  <span class="highlight">Kubernetes</span> : Orchestration & Scaling Fundamentals
+        'stats': () => `
+<span class="accent">GITHUB STATS & CONTRIBUTION GRAPH</span>
+───────────────────────────────────
+<div style="margin-top: 10px;">
+  <img class="img-badge" style="height: 140px;" src="https://github-readme-stats.vercel.app/api?username=Jayavardhan56&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=0A66C2" />
+  <img class="img-badge" style="height: 140px;" src="https://streak-stats.demolab.com/?user=Jayavardhan56&hide_border=true&background=0d1117&stroke=30363d&ring=0A66C2&fire=0A66C2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" />
+</div>
+<div style="margin-top: 10px;">
+  <img class="img-badge" style="height: 150px;" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayavardhan56&bg_color=0d1117&color=ffffff&line=0A66C2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" />
+</div>
+`,
 
-<span class="muted">Recent Activity Log:</span>
-✓ Linux fundamentals
-✓ Git & GitHub
-✓ Docker
-✓ AWS fundamentals
-➔ Jenkins / CI-CD
-➔ Kubernetes / Infrastructure Automation
+        'learning': () => `
+<span class="accent">CURRENT ROADMAP & LOGS</span>
+──────────────────────
+2026-08-13 16:00  [INFO] Linux fundamentals               ✓
+2026-08-13 16:05  [INFO] Git & GitHub                    ✓
+2026-08-13 16:10  [INFO] Docker                          ✓
+2026-08-13 16:15  [INFO] AWS fundamentals                ✓
+2026-08-13 16:20  [INFO] Jenkins / CI-CD                  →
+2026-08-13 16:25  [INFO] Kubernetes                       →
 `,
 
         'connect': () => `
-<span class="accent">CONNECT / LINKS</span>
+<span class="accent">CONNECT WITH ME</span>
 ───────────────
 <span class="muted">GitHub:</span>   <a href="${profileData.github}" target="_blank">${profileData.github}</a>
 <span class="muted">LinkedIn:</span> <a href="${profileData.linkedin}" target="_blank">linkedin.com/in/konathala-jayavardhan</a>
 <span class="muted">Telegram:</span> <a href="${profileData.telegram}" target="_blank">t.me/Jayavardhan56</a>
-`,
-
-        'mission': () => `<span class="success">${profileData.mission}</span>`
+<span class="muted">Email:</span>    <a href="mailto:${profileData.email}">${profileData.email}</a>
+`
     };
 
-    // Auto Run standard introductory setup on start
     window.addEventListener('DOMContentLoaded', () => {
         executeCommand('neofetch');
     });
@@ -365,7 +348,6 @@ I learn by building, breaking, debugging, and rebuilding systems until I underst
             const rawInput = cmdInput.value.trim();
             const cmd = rawInput.toLowerCase();
 
-            // Print Command Line History
             appendPromptOutput(rawInput);
 
             if (rawInput !== '') {
@@ -377,7 +359,7 @@ I learn by building, breaking, debugging, and rebuilding systems until I underst
                 } else if (commands[cmd]) {
                     appendOutput(commands[cmd]());
                 } else {
-                    appendOutput(`<span class="danger">zsh: command not found: ${escapeHtml(rawInput)}</span>. Type <span class="highlight">'help'</span> for available commands.`);
+                    appendOutput(`<span class="danger">zsh: command not found: ${escapeHtml(rawInput)}</span>. Type <span class="highlight">'help'</span> for options.`);
                 }
             }
 
@@ -450,11 +432,10 @@ I learn by building, breaking, debugging, and rebuilding systems until I underst
             .replace(/'/g, "&#039;");
     }
 
-    // Always keep focus on terminal input
     document.addEventListener('click', () => {
         cmdInput.focus();
     });
 </script>
-
 </body>
 </html>
+</div>
