@@ -1,8 +1,3 @@
-<h1 align="center">Hey 👋, I'm Konathala Jayavardhan</h1>
-<a href="http://www.github.com/Jayavardhan56">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header" width="100%"/>
-</a>
-
 <a href="http://www.github.com/Jayavardhan56">
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+K+Jayavardhan;B.Tech+Computer+Science+Graduate;Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Coding+and+Learning!" alt="K Jayavardhan" />
 </a>
