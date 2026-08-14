@@ -1,3 +1,4 @@
+<h1 align="center">Hey 👋, I'm Konathala Jayavardhan</h1>
 <a href="http://www.github.com/Jayavardhan56">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header" width="100%"/>
 </a>
@@ -9,13 +10,27 @@
 <br>
 
 <p align="center">
-  <a href="https://t.me/Jayavardhan56"><img width="36px" alt="Telegram" title="Telegram" src="https://img.icons8.com/ios-filled/50/0A66C2/telegram-app.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/konathala-jayavardhan-130907261"><img width="36px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvnrmJflbZvKDCFSWVBDPgtjjsrXJctqmkZtgmRppBsSKZVChxcVPvpHFFBTGlrCrDJzfg"><img width="36px" alt="Gmail" title="Gmail" src="https://img.icons8.com/ios-filled/50/0A66C2/gmail-new.png"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Jayavardhan56&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Jayavardhan56?label=Followers&style=flat" alt="Followers" />
 </p>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=Jayavardhan56&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=Jayavardhan56&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
 ---
 
 ⦿ &#8287;Hi, I’m K Jayavardhan<br>
@@ -112,32 +127,55 @@
     </tr>
   </tbody>
 </table>
-</div>
 
-⦿ &#8287;Enthusiastic about exploring **cloud technologies**, developing **scalable solutions**, and contributing to **open-source**<br>
-⦿ &#8287;Love building **developer tools**, **smart systems**, and **interactive web applications**<br>
-⦿ &#8287;Let’s collaborate on **DevOps**, **cloud automation**, or **web tech**<br>
-⦿ &#8287;Find me on ⟶ [**Linkedin/Jayavardhan**](https://www.linkedin.com/in/konathala-jayavardhan-130907261)
-
-<a href="http://www.github.com/Jayavardhan56">
-  <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/></p>
-</a>
-
-### 📊 GitHub Analytics
-
-| **STATS** | **STREAK** |
-| :---: | :---: |
-| <a href="http://www.github.com/Jayavardhan56"><img alt="Jayavardhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jayavardhan56&show_icons=true&hide=prs,stars&count_private=true&title_color=0A66C2&text_color=ffffff&icon_color=0A66C2&bg_color=0d1117&hide_border=true&rank_icon=github" width="100%"/></a> | <a href="http://www.github.com/Jayavardhan56"><img src="https://streak-stats.demolab.com/?user=Jayavardhan56&stroke=ffffff&background=0d1117&ring=0A66C2&fire=0A66C2&currStreakNum=ffffff&currStreakLabel=0A66C2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_seconds=86400" alt="Jayavardhan Streak" width="100%"/></a> |
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <a href="http://www.github.com/Jayavardhan56">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavardhan56&layout=compact&title_color=0A66C2&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-  </a>
-  <a href="http://www.github.com/Jayavardhan56">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayavardhan56&bg_color=0d1117&color=0A66C2&line=0A66C2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="48%" />
-  </a>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,tailwind,mongodb,mysql,postgres,redis,firebase,docker,git,github,figma,vercel,aws,gcp&perline=18&size=10"
+    alt="Tech Stack"
+  />
 </p>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Jayavardhan56&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayavardhan56&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayavardhan56&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayavardhan56&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 <a href="http://www.github.com/Jayavardhan56">
   <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/></p>
 </a>
