@@ -28,7 +28,7 @@
   </tr>
 ---
 
-⦿ &#8287;Hi, I’m K Jayavardhan<br>
+⦿ &#8287;Hi, I am K Jayavardhan<br>
 ⦿ &#8287;**B.Tech Computer Science Graduate(2026)**<br>
 ⦿ &#8287;I have expertise in:
 <div>
