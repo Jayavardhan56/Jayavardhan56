@@ -122,38 +122,6 @@
     </tr>
   </tbody>
 </table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <h3>📌 GitHub Overview</h3>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayavardhan56&theme=tokyonight"
-        alt="GitHub Overview"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayavardhan56&theme=tokyonight"
-        alt="Languages by Repository"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayavardhan56&theme=tokyonight"
-        alt="Languages by Commit"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
 <a href="http://www.github.com/Jayavardhan56">
   <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=1.5" width="100%"/></p>
 </a>
